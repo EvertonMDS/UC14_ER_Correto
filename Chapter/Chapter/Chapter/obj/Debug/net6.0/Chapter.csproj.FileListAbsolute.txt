@@ -175,3 +175,4 @@ C:\Users\eletr\Desktop\UC-14\UC14_ER1\Chapter\Chapter\Chapter\obj\Debug\net6.0\r
 C:\Users\eletr\Desktop\UC-14\UC14_ER1\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.pdb
 C:\Users\eletr\Desktop\UC-14\UC14_ER1\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 C:\Users\eletr\Desktop\UC-14\UC14_ER1\Chapter\Chapter\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+C:\Users\eletr\Desktop\UC-14\UC14_ER1\Chapter\Chapter\Chapter\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
